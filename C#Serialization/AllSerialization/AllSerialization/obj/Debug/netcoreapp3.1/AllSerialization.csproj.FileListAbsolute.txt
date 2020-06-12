@@ -1,0 +1,14 @@
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/bin/Debug/netcoreapp3.1/AllSerialization.deps.json
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/bin/Debug/netcoreapp3.1/AllSerialization.runtimeconfig.json
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/bin/Debug/netcoreapp3.1/AllSerialization.runtimeconfig.dev.json
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/bin/Debug/netcoreapp3.1/AllSerialization.dll
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/bin/Debug/netcoreapp3.1/AllSerialization.pdb
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/obj/Debug/netcoreapp3.1/AllSerialization.csprojAssemblyReference.cache
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/obj/Debug/netcoreapp3.1/AllSerialization.AssemblyInfoInputs.cache
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/obj/Debug/netcoreapp3.1/AllSerialization.AssemblyInfo.cs
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/obj/Debug/netcoreapp3.1/AllSerialization.csproj.CoreCompileInputs.cache
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/obj/Debug/netcoreapp3.1/AllSerialization.dll
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/obj/Debug/netcoreapp3.1/AllSerialization.pdb
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/obj/Debug/netcoreapp3.1/AllSerialization.genruntimeconfig.cache
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ankuchoudhary/Projects/AllSerialization/AllSerialization/obj/Debug/netcoreapp3.1/AllSerialization.csproj.CopyComplete

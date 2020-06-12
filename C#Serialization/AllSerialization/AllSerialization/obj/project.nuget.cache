@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0VtLkVUajoYOn0BgDFXutUoupCen3feOWB500jRBaa2XaCACqaPFZoJXqKdWcJ4xM6e75q+blQwl5xCcqFxXXw==",
+  "success": true,
+  "projectFilePath": "/Users/ankuchoudhary/Desktop/Code/JavaFiles/AllSerialization/AllSerialization/AllSerialization.csproj",
+  "expectedPackageFiles": [
+    "/Users/ankuchoudhary/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
